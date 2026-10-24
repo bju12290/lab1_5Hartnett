@@ -1,0 +1,11 @@
+# IntelliJ local configuration
+.idea/
+*.iml
+out/
+
+# Compiled Java files
+*.class
+
+# OS metadata
+.DS_Store
+Thumbs.db
