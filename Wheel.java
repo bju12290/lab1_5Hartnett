@@ -1,7 +1,7 @@
 /**
  * Project: Lab 1.5 - Motorcycle
  * Purpose Details: Represents a motorcycle wheel and its diameter in inches.
- * Course: IST 242
+ * Course: CMPSC 221
  * Author: Brian P. Hartnett Jr.
  * Date Developed: 10/24/2026
  * Last Date Changed: 10/24/2026
